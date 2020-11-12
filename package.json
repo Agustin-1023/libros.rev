@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap-intensivo",
+  "version": "1.0.0",
+  "description": "Proyecto pagina libros",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/Agustin-1023/libros.rev.git"
+  },
+  "author": "Agustin Sosa",
+  "license": "ISC"
+}
